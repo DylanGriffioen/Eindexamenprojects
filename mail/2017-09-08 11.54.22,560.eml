@@ -1,0 +1,10 @@
+Date: Fri, 08 Sep 2017 11:54:22 +0200
+Subject: Activatiemail Webshop
+To: Dylan.griffioen@gmail.com
+X-PHP-Originating-Script: 0:LoginClass.php
+From: no-reply@Webshopteam.nl
+Reply-To: webmaster@Webshopteam.nl
+Content-type: text/html; charset=iso-8859-1
+X-Mailer: PHP/5.6.25
+
+Geachte heer/mevrouw Dylan Griffioen <br> <style>a { color:red;}</style>Hartelijk dank voor het registreren<br>Uw registratienummer is: 25<br>U kunt de registratie voltooien door op de onderstaande<br>activatielink te klikken:<br>klik <a href='http://localhost/eindexamenprojects/index.php?content=activate&idUser=25&emailAdres=Dylan.griffioen@gmail.com&wachtwoord=46efec2786bfa841b66643729d3efa03'><b>Hier</b></a> om uw account te activeren<br>U kunt dan vervolgens een nieuw wachtwoord instellen.<br>Met vriendelijke groet,<br>Het Webshopteam<br>

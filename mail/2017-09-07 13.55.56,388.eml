@@ -1,0 +1,10 @@
+Date: Thu, 07 Sep 2017 13:55:56 +0200
+Subject: Activatiemail Webshop
+To: Herman.Brood@gmail.com
+X-PHP-Originating-Script: 0:LoginClass.php
+From: no-reply@Webshopteam.nl
+Reply-To: webmaster@Webshopteam.nl
+Content-type: text/html; charset=iso-8859-1
+X-Mailer: PHP/5.6.25
+
+Geachte heer/mevrouw Herman Brood <br> <style>a { color:red;}</style>Hartelijk dank voor het registreren<br>Uw registratienummer is: 24<br>U kunt de registratie voltooien door op de onderstaande<br>activatielink te klikken:<br>klik <a href='http://localhost/eindexamenprojects/index.php?content=activate&idUser=24&emailAdres=Herman.Brood@gmail.com&wachtwoord=d812517da11d744ce2fa5aa9886977e4'><b>Hier</b></a> om uw account te activeren<br>U kunt dan vervolgens een nieuw wachtwoord instellen.<br>Met vriendelijke groet,<br>Het Webshopteam<br>
