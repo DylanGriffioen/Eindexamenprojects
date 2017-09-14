@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Gegenereerd op: 12 sep 2017 om 07:17
+-- Gegenereerd op: 14 sep 2017 om 18:43
 -- Serverversie: 5.7.14
 -- PHP-versie: 5.6.25
 
@@ -19,6 +19,8 @@ SET time_zone = "+00:00";
 --
 -- Database: `examendatabase`
 --
+CREATE DATABASE IF NOT EXISTS `examendatabase` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
+USE `examendatabase`;
 
 -- --------------------------------------------------------
 
@@ -462,7 +464,7 @@ ALTER TABLE `users`
 -- AUTO_INCREMENT voor een tabel `winkelmand`
 --
 ALTER TABLE `winkelmand`
-  MODIFY `idWinkelmand` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=62;
+  MODIFY `idWinkelmand` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=59;
 --
 -- Beperkingen voor geëxporteerde tabellen
 --
